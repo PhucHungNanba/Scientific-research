@@ -3,9 +3,14 @@
 
 ### Thông tin nhóm nghiên cứu
 Giảng viên hướng dẫn Nghiên cứu khoa học: TS. Trần Minh Trí
-Thành viên:     
+Thành viên:  
+
   Lê Song Nhật Quyền - Chủ nhiệm đề tài
+  
   Huỳnh Phúc Hưng
+  
   Nguyễn Hãi Đăng
+  
   Nguyễn Lê Nhật minh
+  
   Đinh Trung Hội
